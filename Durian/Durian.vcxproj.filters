@@ -27,9 +27,15 @@
     <ClInclude Include="src\Durian\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Durian\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Durian\Application.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Durian\Log.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
