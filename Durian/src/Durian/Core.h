@@ -9,3 +9,5 @@
 #else
 	#error Durian Engine Only Support Windows
 #endif // DR_PLATFORM_WINDOWS
+
+#define BIT(x) (1 << x)
